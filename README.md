@@ -1,6 +1,6 @@
 # 420 Terp Book v1
 
-For adults 21+ (or registered medical patients) where cannabis is legal.
+For adults 21+ where cannabis is legal.
 Follow your local laws. This is general information, not medical advice.
 Effects described are what people report, not claims about any condition.
 No dosing advice. Vaping and smoking carry health risks; follow your device
@@ -13,9 +13,8 @@ live bot, and it does not download or scrape any website.
 ## What's in this package
 
 - `book/` — the stripped strain book (`index.csv`, `strains/*.md`, flower-only `records.csv`, `glossary.md`, `sources.md`, and the other book files)
-- `LICENSE` — CC BY 4.0 applies only to John's own material (glossary text, README, documentation, scripts, and the selection and arrangement of the compiled book)
+- `LICENSE` — CC BY 4.0 applies only to John's own material (glossary text, README, documentation, and the selection and arrangement of the compiled book)
 - `NOTICE.md` — data sources and credits, including third-party terms
-- `LICENSE-CODE` — MIT license for the scripts in `scripts/`
 
 Third-party data stays under its own terms, listed in `NOTICE.md`. Nothing in
 `LICENSE` changes those terms.
