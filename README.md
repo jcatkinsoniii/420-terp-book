@@ -54,3 +54,5 @@ Connecticut Cannabis Product Registry: https://data.ct.gov/d/egd5-wb6r
 
 Not affiliated with or endorsed by Cannlytics, the study authors, Steep Hill,
 Leafly, Weedmaps, any dispensary, or any state agency.
+
+Corrections or name-removal requests: open an issue at https://github.com/jcatkinsoniii/420-terp-book/issues.
